@@ -1,6 +1,3 @@
-/* OYUN EKLEME: Aşağıdaki GAMES listesine yeni nesne ekleyin.
-   url: bağlantı, image: 16:9 resim yolu, languages: ['en'] veya ['tr'].
-   Boş url olan kartlar bilerek tıklanamaz; bağlantıyı siz dolduracaksınız. */
 const GAMES = [
   {
     "id": "parolla",
