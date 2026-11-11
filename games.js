@@ -2,9 +2,6 @@ const GAMES = [
   {
     "id": "parolla",
     "name": "Parolla",
-    "description": {
-      "tr": "Kelime bulmacası."
-    },
     "categories": [
       "word"
     ],
@@ -19,9 +16,6 @@ const GAMES = [
   {
     "id": "krillion",
     "name": "Krillion",
-    "description": {
-      "tr": "Günlük mantık bulmacası."
-    },
     "categories": [
       "general"
     ],
@@ -36,9 +30,6 @@ const GAMES = [
   {
     "id": "worldle",
     "name": "Worldle",
-    "description": {
-      "tr": "Ülkeyi siluetinden tahmin et."
-    },
     "categories": [
       "geography",
       "country"
@@ -54,9 +45,6 @@ const GAMES = [
   {
     "id": "globle",
     "name": "Globle",
-    "description": {
-      "tr": "Gizli ülkeyi bul."
-    },
     "categories": [
       "geography",
       "country"
@@ -72,9 +60,6 @@ const GAMES = [
   {
     "id": "travle",
     "name": "Travle",
-    "description": {
-      "tr": "Ülkeler arasında rota kur."
-    },
     "categories": [
       "geography",
       "country"
@@ -90,9 +75,6 @@ const GAMES = [
   {
     "id": "flagle",
     "name": "Flagle",
-    "description": {
-      "tr": "Bayraktan ülkeyi tahmin et."
-    },
     "categories": [
       "country"
     ],
@@ -107,9 +89,6 @@ const GAMES = [
   {
     "id": "wonderhop",
     "name": "Wonderhop",
-    "description": {
-      "tr": "Görseller ve ipuçlarıyla yer keşfet."
-    },
     "categories": [
       "general"
     ],
@@ -124,9 +103,6 @@ const GAMES = [
   {
     "id": "timeguessr",
     "name": "Timeguessr",
-    "description": {
-      "tr": "Fotoğrafın yerini ve tarihini tahmin et."
-    },
     "categories": [
       "history",
       "guess"
@@ -143,9 +119,6 @@ const GAMES = [
   {
     "id": "framed",
     "name": "Framed",
-    "description": {
-      "tr": "Film karesinden filmi bul."
-    },
     "categories": [
       "film",
       "guess"
@@ -162,9 +135,6 @@ const GAMES = [
   {
     "id": "bandle",
     "name": "Bandle",
-    "description": {
-      "tr": "Şarkıyı ses ipuçlarından tanı."
-    },
     "categories": [
       "music",
       "guess"
@@ -181,9 +151,6 @@ const GAMES = [
   {
     "id": "guess-the-game",
     "name": "Guess the Game",
-    "description": {
-      "tr": "Ekran görüntüsünden oyunu bul."
-    },
     "categories": [
       "gaming",
       "guess"
@@ -200,9 +167,6 @@ const GAMES = [
   {
     "id": "guess-the-audio",
     "name": "Guess the Audio",
-    "description": {
-      "tr": "Ses kaydından tahmin yap."
-    },
     "categories": [
       "music",
       "guess"
@@ -219,9 +183,6 @@ const GAMES = [
   {
     "id": "guess-the-movie-name",
     "name": "Guess the Movie Name",
-    "description": {
-      "tr": "Film adını tahmin et."
-    },
     "categories": [
       "film",
       "guess"
@@ -238,9 +199,6 @@ const GAMES = [
   {
     "id": "guess-the-logo",
     "name": "Guess the Logo",
-    "description": {
-      "tr": "Logodan markayı tanı."
-    },
     "categories": [
       "brands",
       "guess"
@@ -257,9 +215,6 @@ const GAMES = [
   {
     "id": "guess-the-house",
     "name": "Guess the House",
-    "description": {
-      "tr": "Ev görsellerinden tahmin yap."
-    },
     "categories": [
       "guess"
     ],
@@ -275,9 +230,6 @@ const GAMES = [
   {
     "id": "chronophoto",
     "name": "Chronophoto",
-    "description": {
-      "tr": "Fotoğrafın yılını tahmin et."
-    },
     "categories": [
       "history",
       "guess"
@@ -294,9 +246,6 @@ const GAMES = [
   {
     "id": "originle",
     "name": "Originle",
-    "description": {
-      "tr": "Kökenlerle ilgili tahmin oyunu."
-    },
     "categories": [
       "ethnicity",
       "guess"
@@ -312,9 +261,6 @@ const GAMES = [
   {
     "id": "ethnoguessr",
     "name": "Ethnoguessr",
-    "description": {
-      "tr": "Kültür ve coğrafya tahmini."
-    },
     "categories": [
       "ethnicity",
       "guess"
@@ -331,9 +277,6 @@ const GAMES = [
   {
     "id": "wenware",
     "name": "Wenware",
-    "description": {
-      "tr": "Zaman ve yer tahmini."
-    },
     "categories": [
       "history",
       "guess"
@@ -350,9 +293,6 @@ const GAMES = [
   {
     "id": "farflung",
     "name": "Farflung",
-    "description": {
-      "tr": "Coğrafya tahmin oyunu."
-    },
     "categories": [
       "country",
       "general"
@@ -368,9 +308,6 @@ const GAMES = [
   {
     "id": "songspot",
     "name": "Songspot",
-    "description": {
-      "tr": "Müzik tahmin oyunu."
-    },
     "categories": [
       "music",
       "guess"
@@ -387,9 +324,6 @@ const GAMES = [
   {
     "id": "loldle",
     "name": "LoLdle",
-    "description": {
-      "tr": "League of Legends karakterlerini tahmin et."
-    },
     "categories": [
       "gaming",
       "guess"
@@ -405,9 +339,6 @@ const GAMES = [
   {
     "id": "pok-dle",
     "name": "Pokédle",
-    "description": {
-      "tr": "Pokémon tahmin oyunu."
-    },
     "categories": [
       "anime",
       "guess"
@@ -423,9 +354,6 @@ const GAMES = [
   {
     "id": "narutodle",
     "name": "Narutodle",
-    "description": {
-      "tr": "Naruto karakterlerini tahmin et."
-    },
     "categories": [
       "anime",
       "guess"
@@ -441,9 +369,6 @@ const GAMES = [
   {
     "id": "dialed",
     "name": "Dialed",
-    "description": {
-      "tr": "Sayı ve mantık temalı oyun."
-    },
     "categories": [
       "guess"
     ],
@@ -459,9 +384,6 @@ const GAMES = [
   {
     "id": "anthropeum",
     "name": "Anthropeum",
-    "description": {
-      "tr": "İnsanlık tarihi ve kültür temalı tahmin."
-    },
     "categories": [
       "history",
       "general",
@@ -479,9 +401,6 @@ const GAMES = [
   {
     "id": "letterboxdle",
     "name": "Letterboxdle",
-    "description": {
-      "tr": "Film bilgisi tahmin oyunu."
-    },
     "categories": [
       "film",
       "guess"
@@ -497,9 +416,6 @@ const GAMES = [
   {
     "id": "bonedle",
     "name": "Bonedle",
-    "description": {
-      "tr": "Kemikten LoL karakteri tahmin"
-    },
     "categories": [
       "gaming",
       "guess"
@@ -516,9 +432,6 @@ const GAMES = [
   {
     "id": "whentaken",
     "name": "WhenTaken",
-    "description": {
-      "tr": "Fotoğrafın tarihini ve yerini bul."
-    },
     "categories": [
       "history",
       "guess"
@@ -535,9 +448,6 @@ const GAMES = [
   {
     "id": "foodguessr",
     "name": "FoodGuessr",
-    "description": {
-      "tr": "Yemekten ülkeyi veya mutfağı tahmin et."
-    },
     "categories": [
       "food",
       "guess"
@@ -553,9 +463,6 @@ const GAMES = [
   {
     "id": "gamedle",
     "name": "Gamedle",
-    "description": {
-      "tr": "Video oyunlarını ipuçlarından tahmin et."
-    },
     "categories": [
       "gaming"
     ],
@@ -570,9 +477,6 @@ const GAMES = [
   {
     "id": "scrandle",
     "name": "Scrandle",
-    "description": {
-      "tr": "İki yemek arasından daha çok tercih edileni tahmin oyunu"
-    },
     "categories": [
       "food",
       "guess"

@@ -69,7 +69,6 @@ function renderGames() {
 
   grid.innerHTML = matches.map(game => {
     const name = escapeHTML(game.name);
-    const description = escapeHTML(game.description?.tr || game.description?.en || '');
     const image = game.image
       ? `<img src="${escapeHTML(game.image)}" alt="${name}" loading="lazy" onerror="this.style.display='none'">`
       : '';
