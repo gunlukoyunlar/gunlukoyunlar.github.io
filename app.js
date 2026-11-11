@@ -1,6 +1,7 @@
 const LANGUAGE_LABELS = {
   tr: 'Türkçe',
-  en: 'İngilizce'
+  en: 'İngilizce',
+  gl: 'Global'
 };
 
 const CATEGORY_LABELS = {
@@ -16,7 +17,8 @@ const CATEGORY_LABELS = {
   "general": "Genel Kültür",
   "ethnicity": "Racism",
   "country": "Ülke",
-  "guess": "Tahmin"
+  "guess": "Tahmin",
+  "strategy": "Strateji"
 };
 
 const selectedLanguages = new Set();

@@ -108,8 +108,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://timeguessr.com/",
     "image": "images/timeguessr.png",
@@ -124,8 +123,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://framed.wtf/",
     "image": "images/framed.png",
@@ -140,8 +138,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://bandle.app/",
     "image": "images/bandle.png",
@@ -156,8 +153,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://guessthe.game/",
     "image": "images/gtgame.png",
@@ -172,8 +168,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://guesstheaudio.com/",
     "image": "images/gtaudio.png",
@@ -188,8 +183,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://guessthemovie.name/",
     "image": "images/gtmovie.png",
@@ -204,8 +198,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://guessthelogo.wtf/",
     "image": "images/gtlogo.png",
@@ -219,8 +212,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://guessthe.house/",
     "image": "images/gthouse.png",
@@ -235,8 +227,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://www.chronophoto.app/",
     "image": "images/chronophoto.png",
@@ -266,8 +257,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://hbd.gg/",
     "image": "images/ethno.jpg",
@@ -282,8 +272,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://wen-ware.com/",
     "image": "images/wenware.png",
@@ -313,8 +302,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://songspot.net/",
     "image": "images/songspot.jfif",
@@ -329,7 +317,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "tr"
+      "gl"
     ],
     "url": "https://loldle.net/",
     "image": "images/loldle.webp",
@@ -344,7 +332,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "tr"
+      "gl"
     ],
     "url": "https://pokedle.net/",
     "image": "images/pokedle.png",
@@ -359,7 +347,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "tr"
+      "gl"
     ],
     "url": "https://narutodle.net/",
     "image": "images/narutodle.png",
@@ -373,8 +361,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://dialed.gg/",
     "image": "images/dialed.png",
@@ -390,8 +377,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://anthropeum.com/",
     "image": "images/anthropeum.jpg",
@@ -421,8 +407,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://bonedle.rito.lol/",
     "image": "images/bonedle.webp",
@@ -437,8 +422,7 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://whentaken.com/",
     "image": "images/whentaken.jfif",
@@ -467,7 +451,7 @@ const GAMES = [
       "gaming"
     ],
     "languages": [
-      "tr"
+      "gl"
     ],
     "url": "https://www.gamedle.wtf/?lang=tr",
     "image": "images/gamedle.webp",
@@ -482,12 +466,25 @@ const GAMES = [
       "guess"
     ],
     "languages": [
-      "en",
-      "tr"
+      "gl"
     ],
     "url": "https://scrandle.com/",
     "image": "images/scrandle.jpg",
     "color": "#A4133C",
     "symbol": "SC"
+  },
+  {
+    "id": "enclosehorse",
+    "name": "Enclose Horse",
+    "categories": [
+      "strategy"
+    ],
+    "languages": [
+      "gl"
+    ],
+    "url": "https://enclose.horse/",
+    "image": "images/enclosehorse.png",
+    "color": "#A4133C",
+    "symbol": "EH"
   }
 ];
