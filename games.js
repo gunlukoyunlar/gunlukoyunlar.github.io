@@ -501,7 +501,7 @@ const GAMES = [
     "id": "bonedle",
     "name": "Bonedle",
     "description": {
-      "tr": "Kemik ve anatomi tahmin oyunu."
+      "tr": "Kemikten LoL karakteri tahmin"
     },
     "categories": [
       "gaming",
@@ -569,5 +569,24 @@ const GAMES = [
     "image": "images/gamedle.webp",
     "color": "#A4133C",
     "symbol": "GA"
-  }
+  },
+  {
+    "id": "scrandle",
+    "name": "Scrandle",
+    "description": {
+      "tr": "İki yemek arasından daha çok tercih edileni tahmin oyunu"
+    },
+    "categories": [
+      "food",
+      "guess"
+    ],
+    "languages": [
+      "en",
+      "tr"
+    ],
+    "url": "https://scrandle.com/",
+    "image": "images/scrandle.jpg",
+    "color": "#A4133C",
+    "symbol": "SC"
+  },
 ];
