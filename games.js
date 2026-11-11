@@ -585,5 +585,5 @@ const GAMES = [
     "image": "images/scrandle.jpg",
     "color": "#A4133C",
     "symbol": "SC"
-  },
+  }
 ];
